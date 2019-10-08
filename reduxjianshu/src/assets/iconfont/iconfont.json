@@ -1,0 +1,51 @@
+{
+  "id": "1433452",
+  "name": "简书",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "简书",
+  "glyphs": [
+    {
+      "icon_id": "173095",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "385214",
+      "name": "Aa",
+      "font_class": "aa",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "3868273",
+      "name": "警告",
+      "font_class": "jinggao",
+      "unicode": "eb65",
+      "unicode_decimal": 60261
+    },
+    {
+      "icon_id": "5274433",
+      "name": "指南针",
+      "font_class": "zhinanzhen",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "5649815",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "8336930",
+      "name": "羽毛笔",
+      "font_class": "quill",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    }
+  ]
+}
